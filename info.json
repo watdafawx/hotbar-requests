@@ -1,0 +1,11 @@
+{
+  "name": "hotbar-requests",
+  "version": "1.0.2",
+  "title": "Hotbar Requests",
+  "author": "mtopfox",
+  "factorio_version": "2.0",
+  "description": "Keeps a logistic request group in sync with your quickbar: every item pinned to the hotbar is requested (one stack by default). Safe to add or remove at any time.",
+  "dependencies": [
+    "base >= 2.0"
+  ]
+}
